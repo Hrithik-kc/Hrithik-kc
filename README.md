@@ -26,13 +26,15 @@
  
 ### 📊 **GitHub Repos and Languages**
  
-<div align="center">
+```text
+C++          ███████████████░░░░░  70%
+JavaScript   ████████████░░░░░░░░  55%
+C            ████████░░░░░░░░░░░░  40%
+HTML         █████░░░░░░░░░░░░░░░  25%
+CSS          ████░░░░░░░░░░░░░░░░  20%
+```
  
-| 🟦 C++ | 🟨 JavaScript | ⬜ C | 🟧 HTML |
-|:------:|:-------------:|:---:|:-------:|
-| **Primary** | **Secondary** | **Systems** | **Markup** |
- 
-</div>
+---
  
 ---
 
