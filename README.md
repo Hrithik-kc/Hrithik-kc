@@ -1,6 +1,7 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=100&pause=5000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+I'm+Hrithik+K+C+👋" alt="Hi I'm Hrithik K C" />
+
+<h2>HithiK K C</h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Frontend+Engineer;Open+Source+Contributor;DSA+Enthusiast;Tech+Explorer" alt="Typing SVG" />
 
@@ -34,15 +35,7 @@
 
 ---
 
-### 📈 Activity & Contributions
 
-**Hrithik K C's Contribution Graph**
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PRs and pushed commits across repositories
-<!--END_SECTION:activity-->
-
----
 
 ### 🤝 Connect With Me
 
