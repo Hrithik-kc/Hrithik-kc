@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Hrithik-kc/Hrithik-kc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi I'm Hrithik K C
 
-Here are some ideas to get you started:
+**Full-Stack Developer &nbsp;|&nbsp; Engineering Student**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code>Open Source Contributor</code>
+
+</div>
+
+<br/>
+
+---
+
+### Professional Tech Stack
+
+- **Frontend** &nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+- **Languages** &nbsp; ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+- **Tools & Version Control** &nbsp; ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+- **Learning Stage** &nbsp; ![Backend](https://img.shields.io/badge/Backend_Development-🔧_In_Progress-orange?style=flat-square) ![DSA](https://img.shields.io/badge/DSA-📈_In_Progress-blue?style=flat-square)
+
+---
+
+### GitHub Repos and Languages
+
+<div align="center">
+
+| 🟦 C++ | 🟨 JavaScript | ⬜ C | 🟧 HTML |
+|:------:|:-------------:|:---:|:-------:|
+| Primary | Secondary | Systems | Markup |
+
+</div>
+
+---
+
+### Activity & Contributions
+
+**Hrithik K C's Contribution Graph**
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PRs and pushed commits across repositories
+<!--END_SECTION:activity-->
+
+---
+
+### Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Hrithik--KC-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hrithik-KC)
+
+</div>
