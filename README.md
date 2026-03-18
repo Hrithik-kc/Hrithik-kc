@@ -1,6 +1,6 @@
 <div align="center">
  
-# **Hrithik K C**
+# **HRITHIK K C**
  
 **Full-Stack Developer &nbsp;|&nbsp; Engineering Student**
  
