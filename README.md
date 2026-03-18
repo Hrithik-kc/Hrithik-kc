@@ -35,16 +35,7 @@
 </div>
  
 ---
- 
-### 📈 **Activity & Contributions**
- 
-**Hrithik K C's Contribution Graph**
- 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PRs and pushed commits across repositories
-<!--END_SECTION:activity-->
- 
----
+
  
 ### 🤝 **Connect With Me**
  
