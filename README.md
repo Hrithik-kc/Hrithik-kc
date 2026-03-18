@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi I'm Hrithik K C
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=100&pause=5000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+I'm+Hrithik+K+C+👋" alt="Hi I'm Hrithik K C" />
 
-**Full-Stack Developer &nbsp;|&nbsp; Engineering Student**
-
-<code>Open Source Contributor</code>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Frontend+Engineer;Open+Source+Contributor;DSA+Enthusiast;Tech+Explorer" alt="Typing SVG" />
 
 </div>
 
@@ -12,7 +10,7 @@
 
 ---
 
-### Professional Tech Stack
+### 🧰 Professional Tech Stack
 
 - **Frontend** &nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
@@ -24,7 +22,7 @@
 
 ---
 
-### GitHub Repos and Languages
+### 📊 GitHub Repos and Languages
 
 <div align="center">
 
@@ -36,7 +34,7 @@
 
 ---
 
-### Activity & Contributions
+### 📈 Activity & Contributions
 
 **Hrithik K C's Contribution Graph**
 
@@ -46,10 +44,14 @@
 
 ---
 
-### Connect With Me
+### 🤝 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Hrithik--KC-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hrithik-KC)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hrithik_K_C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hrithik-kc)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-hrithikkc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrithikkc@gmail.com)
 
 </div>
