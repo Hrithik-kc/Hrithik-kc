@@ -50,8 +50,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Hrithik--KC-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hrithik-KC)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hrithik_K_C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hrithik-kc)
+[![LinkedIn](https://www.linkedin.com/in/hrithik-k-c-2792a931a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-hrithikkc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrithikkc@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-hrithikkc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrithikkc2005@gmail.com)
 
 </div>
